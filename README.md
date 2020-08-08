@@ -1,1 +1,1 @@
-# essays
+[Essays on technology and other subjects.](https://recursivelycurious.github.io/essays/)
