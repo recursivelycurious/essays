@@ -13,4 +13,8 @@ Many friends and colleagues have been kind enough to engage - or at least tolera
 
 Any and all mistakes are my own.
 
--- md, recursively curious - 18 Aug 2020
+-- RC Grey - 18 Aug 2020
+
+[Index](https://recursivelycurious.github.io/essays/index.html)
+
+> Edited 4 Oct 2020

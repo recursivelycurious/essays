@@ -1,4 +1,4 @@
-[About](https://recursivelycurious.github.io/essays/about.html)
+[Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
 
 # The Importance of Revisions
@@ -33,4 +33,6 @@ One of the themes of these essays - and an architectural principle around which 
 
 Shall we begin?
 
-- Recursively Curious
+- RC Grey
+
+[Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
