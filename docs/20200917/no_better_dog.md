@@ -1,3 +1,5 @@
+[Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
+
 # No Better Dog
 
 The last few weeks have been confusing to say the least. Though I believe it makes more sense if we quickly recap what Patia went through last year.
@@ -51,3 +53,5 @@ Of course, both or neither of these hypotheses may be correct, and at the end of
 My objective remains the same as it has been, to let Patia have as many happy days as possible without trauma - either physical or emotional. And to make sure that whatever (very little fingers crossed) poking and prodding she has yet to endure is with "dad" nearby so that there can be as much love, and as little fear, as possible.
 
 > Note: This revision is a snap shot as of early October 2020, and earlier text about Patia is currently in draft form, to be added at a future time. Part of that draft was initially intended for the 17 September 2020 addition to these essays, but caring for the pup took precedence over writing about her. This revision is also somewhat clinical, as it was prepared in part to share with Patia's Veterinarian providers. 
+
+[Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
