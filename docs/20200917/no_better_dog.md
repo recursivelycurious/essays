@@ -62,5 +62,6 @@ My objective remains the same as it has been, to let Patia have as many happy da
 
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
-> Revision 0;  04 Oct 2020 
-> Last revised 09 Oct 2020
+> Revision 1, 09 Oct 2020  
+> Revision 0, 04 Oct 2020
+
