@@ -4,7 +4,7 @@
 
 ## 2020
 
-[No Better Dog](https://recursivelycurious.github.io/essays/20200917/no_better_dog.html) Revision 0, revised 10/4/20
+[No Better Dog](https://recursivelycurious.github.io/essays/20200917/no_better_dog.html) Revision 1, revised 10/9/20
 
 [The Importance of Revisions](https://recursivelycurious.github.io/essays/20200818/the_importance_of_revisions.html) Revision 0, revised 8/17/20,
 
