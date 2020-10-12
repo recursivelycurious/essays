@@ -21,5 +21,6 @@ Any and all mistakes are my own.
 
 [Index](https://recursivelycurious.github.io/essays/index.html)
 
-> Revision 0;  18 Aug 2020
-> Last revised 09 Oct 2020
+> Revision 1; 09 Oct 2020  
+> Revision 0; 18 Aug 2020  
+
