@@ -24,3 +24,5 @@ Any and all mistakes are my own.
 > Revision 1; 09 Oct 2020  
 > Revision 0; 18 Aug 2020  
 
+Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
+

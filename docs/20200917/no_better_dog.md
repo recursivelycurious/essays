@@ -65,3 +65,4 @@ My objective remains the same as it has been, to let Patia have as many happy da
 > Revision 1, 09 Oct 2020  
 > Revision 0, 04 Oct 2020
 
+Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.

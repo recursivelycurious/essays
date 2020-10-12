@@ -36,3 +36,5 @@ Shall we begin?
 - RC Grey
 
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
+
+Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
