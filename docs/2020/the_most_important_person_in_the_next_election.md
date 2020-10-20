@@ -44,7 +44,7 @@ If you believe you can do a better job, and are willing to step forward to actua
 
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
-> Revision 1, 19 Oct 2020
+> Revision 1, 19 Oct 2020  
 > Revision 0, 18 Oct 2020
 
 Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
