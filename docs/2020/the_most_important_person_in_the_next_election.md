@@ -34,7 +34,7 @@ This essay will not speak for or against any candidate or party, ballot measure,
 
 There is no such thing as "Not my president" - or Senator, Representative, Governor etc., right down to elected Sheriffs and small town mayors. 
 
-Once the dust settles, the person in the office _has the authority the office provides. If they are incompetent or corrupt the damage done to our institutions and to individuals is very real_. At voters, this impacts our ballot choices. As citizens, this impacts our responsibilities until the next election.
+Once the dust settles, the person in the office _has the authority the office provides. If they are incompetent or corrupt the damage done to our institutions and to individuals is very real_. As voters, this impacts our ballot choices. As citizens, this impacts our responsibilities until the next election.
 
 These individuals are public servants, they work for _all of us_, and it is our collective responsibility to work with them when they promote the public good, oppose them when they undermine it, and hold them accountable when they overreach. If the candidate you supported does not win that is _not_ a pass just gripe and complain until the **next** election. Get involved. Get others involved. Not sure where to start? I suggest registering people to vote and encouraging to think about the issues. _Not to agree with you_, but to think about the issues on their own, to attend town halls, to write emails and make calls to officials, to create new parties and run for office.
 
@@ -45,6 +45,7 @@ If you believe you can do a better job, and are willing to step forward to actua
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
 > Revision 1, 19 Oct 2020
+> Revision 0, 18 Oct 2020
 
 Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
 
