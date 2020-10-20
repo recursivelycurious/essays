@@ -49,3 +49,5 @@ If you believe you can do a better job, and are willing to step forward to actua
 Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
 
 > **Strive never to speak of - let alone demand - your "rights" as a citizen without first identifying and fulfilling your responsibilities, the first of which is to vote.**
+
+[Audio/Video version](https://youtu.be/NO3gUT7UJj0)
