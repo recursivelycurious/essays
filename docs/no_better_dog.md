@@ -1,6 +1,6 @@
 <style>
 header {
-  display: none;
+  display: none; !important
 }
 
 </style>
