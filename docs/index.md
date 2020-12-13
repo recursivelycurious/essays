@@ -6,7 +6,7 @@
 
 [The Most Important Person in the Next Election](https://recursivelycurious.github.io/essays/2020/the_most_important_person_in_the_next_election.html) Revision 1, revised 10/19/20
 
-[No Better Dog](https://recursivelycurious.github.io/essays/20200917/no_better_dog.html) Revision 1, revised 10/9/20
+[No Better Dog](https://recursivelycurious.github.io/essays/no_better_dog.html) Revision 2, revised 12/13/20
 
 [The Importance of Revisions](https://recursivelycurious.github.io/essays/20200818/the_importance_of_revisions.html) Revision 0, revised 8/17/20,
 

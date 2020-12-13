@@ -60,8 +60,23 @@ My objective remains the same as it has been, to let Patia have as many happy da
 
 > Note: The initial version of this doc was more clinical in order to provide information to our vet friends and their staff. Earlier text about Patia was in draft form intended for the 17 September 2020 addition to these essays, but caring for the pup took precedence over writing about her, so revision 0 was tardy.
 
+## She Will Be Missed
+
+Our last two months were mostly - and thankfully - uneventful. Patia had one coughing episode where she'd been unable to breath for what seemed like an eternity but was probably only fifteen seconds. It started in bed, in the middle of the night. After a panicked scramble to her feet and into the other room she was able to clear the sputum and breath again, coughing for about a minute after to get the airway entirely clear. She was scared. And so was I. I was _extremely_ watchful of her the next few days, communicating a lot with the vet. 
+
+Happily there was no recurrence. Once was enough to put me sharply on edge. Her too - if she coughed more than a time or two she'd look at me for re-assurance after, though otherwise we enjoyed our last weeks together. Walks became shorter, breathing more labored, appetite more selective; but there was still a lot of happiness in her eyes, ears and tail. We spent a lot of time outdoors, sitting in the grass, hoping to spot a glimpse of rabbit or fox across the street. We were lucky with the weather, it was unseasonably warm for Colorado in December and we spent many evenings in the front yard, for as long as Patia wished. What first was hours of this dwindled to minutes, then lost its appeal in the last week. The outdoors became a chore, breathing became difficult after the shortest possible "business trip", food became uninteresting, and staying comfortable more challenging. It was time. 
+
+We set an appointment about a week out, hoping that nothing acute would trigger a crisis and - in the time of COVID - necessitate our separation during the final moments. We spent a lot of time getting tummy rubs, ear scratches and other attention, enjoying what we could while allowing enough time for another rebound as we'd seen earlier, but the general decline continued. 
+
+Her last day she managed one brief, halting, awkward walk into the yard, then wanted to go straight back to bed. She turned down everything in the 'kibble parade' that had been our standard procedure for nearly two weeks, where I would offer her over the course of the day anything she'd shown an interest in over the past two years. Some days she'd eat this, others that, but always less. This last day, all but a few bites of freshly cooked ground buffalo was declined, even peanut butter. What I shared with her from my own bowl was reluctantly accepted - another chore. There was a lot of love though, from me and from a few visitors, and a few moments of wagging tail. She was happy for the company.
+
+It was peaceful, at home, in her bed. She never closed her eyes - she just looked up into mine. They became sleepy and a little sad but never took on any pain or fear, even though I think she understood this was the end. 
+
+Aside from sorrow, I mostly feel gratitude for having had such a wonderful companion for so many years. Goodbye Patia, and thank you.
+
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
+> Revision 2, 13 Dec 2020
 > Revision 1, 09 Oct 2020  
 > Revision 0, 04 Oct 2020
 
