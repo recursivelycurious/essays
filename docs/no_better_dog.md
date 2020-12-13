@@ -1,3 +1,10 @@
+<style>
+header {
+  display: none;
+}
+
+</style>
+
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
 # No Better Dog
@@ -58,8 +65,6 @@ Of course, both or neither of these hypotheses may be correct, and at the end of
 
 My objective remains the same as it has been, to let Patia have as many happy days as possible without trauma - either physical or emotional. And to make sure that whatever (zero to very little fingers crossed) poking and prodding she has yet to endure is with "dad" present so that there can be as much love, and as little fear, as possible.
 
-> Note: The initial version of this doc was more clinical in order to provide information to our vet friends and their staff. Earlier text about Patia was in draft form intended for the 17 September 2020 addition to these essays, but caring for the pup took precedence over writing about her, so revision 0 was tardy.
-
 ## She Will Be Missed
 
 Our last two months were mostly - and thankfully - uneventful. Patia had one coughing episode where she'd been unable to breath for what seemed like an eternity but was probably only fifteen seconds. It started in bed, in the middle of the night. After a panicked scramble to her feet and into the other room she was able to clear the sputum and breath again, coughing for about a minute after to get the airway entirely clear. She was scared. And so was I. I was _extremely_ watchful of her the next few days, communicating a lot with the vet. 
@@ -76,8 +81,10 @@ Aside from sorrow, I mostly feel gratitude for having had such a wonderful compa
 
 [Index](https://recursivelycurious.github.io/essays/index.html) ~~ [About](https://recursivelycurious.github.io/essays/about.html)
 
-> Revision 2, 13 Dec 2020
+> Revision 2, 13 Dec 2020  
 > Revision 1, 09 Oct 2020  
-> Revision 0, 04 Oct 2020
+> Revision 0, 04 Oct 2020  
 
 Revision notifications are posted to [@rcrsvlycurious](https://twitter.com/rcrsvlycurious) -- please follow on twitter to be advised of updates.
+
+> Note: The initial version of this doc was more clinical in order to provide information to our vet friends and their staff. Earlier text about Patia was in draft form intended for the 17 September 2020 addition to these essays, but caring for the pup took precedence over writing about her, so revision 0 was tardy.
