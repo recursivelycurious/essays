@@ -1,5 +1,5 @@
 <style>
-header {
+#header {
   display: none; !important
 }
 
